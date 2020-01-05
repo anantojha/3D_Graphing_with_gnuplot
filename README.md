@@ -24,5 +24,10 @@ build
 
 
 
+run
+'./plot'
+
+
+
 
 
