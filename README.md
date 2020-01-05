@@ -1,3 +1,4 @@
+Simple 2D Linear Regression:
 ![alt text](https://github.com/anantojha/3D_Graphing_with_gnuplot/blob/master/2D.png)
 
 
