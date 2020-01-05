@@ -22,4 +22,15 @@ build
 
 
 
+run
+
+'./plot filename.format' 
+
+note: data files are stored in /Data directory. Current set path "~/Desktop/3D_Graphing_with_gnuplot/Data/"
+
+
+
+
+
+
 
